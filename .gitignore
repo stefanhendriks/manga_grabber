@@ -1,4 +1,4 @@
 manga/*.*
 *.png
 *.swp
-
+*.DS_Store
